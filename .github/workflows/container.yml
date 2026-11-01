@@ -9,7 +9,7 @@ on:
 
 defaults:
   run:
-    working-director: packages/container+\1
+    working-directory: packages/container+\1
 
 
 jobs:
